@@ -21,8 +21,8 @@ This project uses Python 3 and is designed to be completed through the Jupyter N
 How the project is organized
 There are 2 Jupyter Notebooks that are supposed to be ran in order
 
-Data Cleaning and EDA.ipynb
-Accident prediction.ipynb
+* Data Cleaning and EDA.ipynb
+* Accident prediction.ipynb
 
 # Data
 The source for this project is Policia Rodoviária Federal website. The data are acessed through https://portal.prf.gov.br/dados-abertos
