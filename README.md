@@ -7,8 +7,8 @@ In this project, we analyze data on traffic accidents that occurred on Brazilian
 # Software and Libraries
 This project uses Python 3 and is designed to be completed through the Jupyter Notebooks IDE using Amazon SageMaker. The following libraries are expected to be used in this project:
 
-NumPy
-Pandas
+* NumPy
+* Pandas
 Sklearn
 Matplotlib (for data visualization)
 Seaborn (for data visualization)
