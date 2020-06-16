@@ -9,16 +9,14 @@ This project uses Python 3 and is designed to be completed through the Jupyter N
 
 * NumPy
 * Pandas
-Sklearn
-Matplotlib (for data visualization)
-Seaborn (for data visualization)
-joblib (use to save sklearn models)
-missingno (to analyze missing data)
-tqdm (to show progress bars)
-Word2vec (to analyze categorical features)
-k-means (to unsupervised learn)
-imblearn (for resampling imbalanced data)
-xgboost (for the supervised model)
+* Sklearn
+* Matplotlib (for data visualization)
+* Seaborn (for data visualization)
+* missingno (to analyze missing data)
+* tqdm (to show progress bars)
+* Word2vec (to analyze categorical features)
+* k-means (to unsupervised learn)
+* xgboost (for the supervised model)
 
 How the project is organized
 There are 2 Jupyter Notebooks that are supposed to be ran in order
