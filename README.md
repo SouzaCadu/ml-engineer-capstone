@@ -13,16 +13,17 @@ This project uses Python 3 and is designed to be completed through the Jupyter N
 * Matplotlib (for data visualization)
 * Seaborn (for data visualization)
 * missingno (to analyze missing data)
-* tqdm (to show progress bars)
-* Word2vec (to analyze categorical features)
-* k-means (to unsupervised learn)
+* pandas-profiling (to exploratory data analysis)
+* linearregressor (for the supervised learn)
 * xgboost (for the supervised model)
 
 How the project is organized
-There are 2 Jupyter Notebooks that are supposed to be ran in order
+There are three Jupyter Notebooks.
+The firts one is a vary bascic data analysis. The other two are supposed to be ran in order.
 
-* Data Cleaning and EDA.ipynb
-* Accident prediction.ipynb
+* 0_Initial_data_distribution.ipynb
+* 1_Data_Cleaning_EDA.ipynb
+* 2_Resampling_Modeling.ipynb
 
 # Data
 The source for this project is Policia Rodoviária Federal website. The data are acessed through https://portal.prf.gov.br/dados-abertos
